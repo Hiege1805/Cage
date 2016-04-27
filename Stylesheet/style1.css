@@ -1,0 +1,46 @@
+#PageWrapper{
+background-color: #ccc;
+width: 1200px;
+height: 2000px;
+}
+
+#header{
+width: 1200px;
+height: 250px;
+background-color: black;
+color: #fff;
+text-align: center;	
+
+}
+
+
+#LeftSideBar{
+	width: 200px;
+	height:1730px;
+	background-color: #aaa;
+	font-size: 20px;
+	padding-top: 15px;
+	}
+	
+#Werbung{
+	width: 200px;
+	height: 1730px;
+	background-color: #afa;
+	float:right;
+	line-height: 30px;
+	letter-spacing:5px;
+	text-align: center;
+	}
+
+a:visited {
+		color: pink;
+		text-decoration:underline;
+		}
+a:hover{
+		text-decoration: underline;
+		color: hotpink;}
+		
+h1, h2, h3, h4, h5, h6{
+  margin-top:50px;
+  margin-bottom:10px;
+}
